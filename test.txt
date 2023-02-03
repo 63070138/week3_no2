@@ -1,2 +1,4 @@
 putter commit(master)
 alpha commit(master before merge)
+first commit(new branch)
+second commit(new branch)
